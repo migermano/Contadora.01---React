@@ -1,0 +1,16 @@
+body{
+  margin: 0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align:center;
+  background-color: blueviolet;
+}
+h2{
+  font-size: 36px;
+}
+.button{
+  margin-right: 18px;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(red, green, blue);
+}
